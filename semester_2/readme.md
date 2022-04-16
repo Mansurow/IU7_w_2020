@@ -18,5 +18,5 @@
 ### Программирование на Си (часть 1)
 Репозиторий: [bmstu_C](https://github.com/Mansurow/bmstu_c/tree/master/semester_2)
 
-## ОПИ
+### ОПИ
 Репозиторий: [bmstu_FSE](https://github.com/Mansurow/bmstu_FSE)
