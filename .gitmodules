@@ -46,3 +46,8 @@
 [submodule "semester_6/Операционные-системы"]
 	path = semester_6/Операционные-системы
 	url = git@github.com:Mansurow/bmstu-iu7-OS.git
+	branch = main-linux
+[submodule "semester_6/Математическая-статистика"]
+	path = semester_6/Математическая-статистика
+	url = git@github.com:Mansurow/bmstu-iu7-6sem-MS.git
+	branch = master
