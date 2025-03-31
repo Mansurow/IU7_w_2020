@@ -43,3 +43,6 @@
 [submodule "semester_5/Базы-данных"]
 	path = semester_5/Базы-данных
 	url = git@github.com:Mansurow/bmstu-iu7-5sem-DB.git
+[submodule "semester_6/Операционные-системы"]
+	path = semester_6/Операционные-системы
+	url = git@github.com:Mansurow/bmstu-iu7-OS.git
