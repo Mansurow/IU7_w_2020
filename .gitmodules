@@ -13,3 +13,9 @@
 [submodule "semester_2/Основы-программной-инженерии"]
 	path = semester_2/Основы-программной-инженерии
 	url = git@github.com:Mansurow/bmstu-iu7-2sem-FSE.git
+[submodule "semester_3/Программирование-C"]
+	path = semester_3/Программирование-C
+	url = git@github.com:Mansurow/bmstu-iu7-2-3sem-C.git
+[submodule "semester_3/Типы-и-структуры-данных"]
+	path = semester_3/Типы-и-структуры-данных
+	url = git@github.com:Mansurow/bmstu-iu7-3sem-TaSD.git
