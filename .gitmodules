@@ -91,3 +91,19 @@
 	path = semester_7/Курсовая-работа-ОС
 	url = git@github.com:Mansurow/bmstu-iu7-os-cp.git
 	branch = master
+[submodule "semester_8/Цифровая-обработка-сигналов"]
+	path = semester_8/Цифровая-обработка-сигналов
+	url = git@github.com:Mansurow/bmstu-iu7-8sem-digital-signal-processing.git
+	branch = master
+[submodule "semester_8/DevOps"]
+	path = semester_8/DevOps
+	url = git@github.com:Mansurow/bmstu-iu7-8sem-devops.git
+	branch = master
+[submodule "semester_8/Экономика-программной-инженерии"]
+	path = semester_8/Экономика-программной-инженерии
+	url = git@github.com:Mansurow/bmstu-iu7-8sem-economics-software-engineering.git
+	branch = master
+[submodule "semester_8/Планирование-эксперимента"]
+	path = semester_8/Планирование-эксперимента
+	url = git@github.com:Mansurow/bmstu-iu7-8sem-experiment-planning.git
+	branch = master
