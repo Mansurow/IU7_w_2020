@@ -31,3 +31,15 @@
 [submodule "semester_4/Компьютерная-графика"]
 	path = semester_4/Компьютерная-графика
 	url = https://github.com/Mansurow/bmstu-iu7-4sem-CG
+[submodule "semester_5/Анализ-алгоритмов"]
+	path = semester_5/Анализ-алгоритмов
+	url = git@github.com:Mansurow/bmstu-iu7-5sem-AA.git
+[submodule "semester_5/Курсовая-работа-КГ"]
+	path = semester_5/Курсовая-работа-КГ
+	url = git@github.com:Mansurow/bmstu-cg-course.git
+[submodule "semester_5/Операционные-системы"]
+	path = semester_5/Операционные-системы
+	url = git@github.com:Mansurow/bmstu-iu7-OS.git
+[submodule "semester_5/Базы-данных"]
+	path = semester_5/Базы-данных
+	url = git@github.com:Mansurow/bmstu-iu7-5sem-DB.git
