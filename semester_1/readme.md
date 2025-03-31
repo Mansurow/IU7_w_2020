@@ -10,14 +10,6 @@
 
 ## Лабораторные работы
 
-### Программирование на Python
-
-> Преподаватель: Борисов С.В., Кузнецова О.В.
-
-Репозиторий: [bmstu_python](https://github.com/Mansurow/bmstu_python/tree/master/semester_1/Python%20Labs)
-
-### Практика 
-Репозиторий: [bmstu_python](https://github.com/Mansurow/bmstu_python/tree/master/semester_1/Practica)
-
-### Экзамен
-Репозиторий: [bmstu_python](https://github.com/Mansurow/bmstu_python/tree/master/semester_1/Exam%20-%20Python)
+- Репозиторий: [Программирование на Python](https://github.com/Mansurow/bmstu_python/tree/master/semester_1/Python%20Labs)
+- Репозиторий: [Практика на Python](https://github.com/Mansurow/bmstu_python/tree/master/semester_1/Practica)
+- Репозиторий: [Экзамен - Программирование на Python](https://github.com/Mansurow/bmstu_python/tree/master/semester_1/Exam%20-%20Python)
