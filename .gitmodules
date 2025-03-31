@@ -1,3 +1,6 @@
 [submodule "semester_1/Программирование-Python"]
 	path = semester_1/Программирование-Python
 	url = git@github.com:Mansurow/bmstu-iu7-1-2sem-Python.git
+[submodule "semester_1/Практика"]
+	path = semester_1/Практика
+	url = git@github.com:Mansurow/bmstu-iu7-1-2sem-Python.git
