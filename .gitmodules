@@ -51,3 +51,19 @@
 	path = semester_6/Математическая-статистика
 	url = git@github.com:Mansurow/bmstu-iu7-6sem-MS.git
 	branch = master
+[submodule "semester_6/Функциональное-и-логическое-программирование"]
+	path = semester_6/Функциональное-и-логическое-программирование
+	url = git@github.com:Mansurow/bmstu-iu7-6sem-FaLP.git
+	branch = master
+[submodule "semester_6/Курсовая-работа-БД"]
+	path = semester_6/Курсовая-работа-БД
+	url = git@github.com:Mansurow/bmstu-db-cp.git
+	branch = master
+[submodule "semester_6/Проектирование-программного-обеспечения"]
+	path = semester_6/Проектирование-программного-обеспечения
+	url = git@github.com:Mansurow/bmstu-iu7-backend-portal.git
+	branch = master
+[submodule "semester_6/Моделирование"]
+	path = semester_6/Моделирование
+	url = git@github.com:Mansurow/bmstu-iu7-6sem-modeling.git
+	branch = master
