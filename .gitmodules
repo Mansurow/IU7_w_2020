@@ -67,3 +67,27 @@
 	path = semester_6/Моделирование
 	url = git@github.com:Mansurow/bmstu-iu7-6sem-modeling.git
 	branch = master
+[submodule "semester_7/Защита-информации"]
+	path = semester_7/Защита-информации
+	url = git@github.com:Mansurow/bmstu-iu7-7sem-Information-Protection.git
+	branch = master
+[submodule "semester_7/Моделирование"]
+	path = semester_7/Моделирование
+	url = git@github.com:Mansurow/bmstu-iu7-7sem-modeling.git
+	branch = master
+[submodule "semester_7/Компьютерные-сети"]
+	path = semester_7/Компьютерные-сети
+	url = git@github.com:Mansurow/bmstu-iu7-7sem-network.git
+	branch = master
+[submodule "semester_7/Научно-исследовательская-работа"]
+	path = semester_7/Научно-исследовательская-работа
+	url = git@github.com:Mansurow/bmstu-iu7-7sem-research-work.git
+	branch = master
+[submodule "semester_7/Курсовая-работа-КС"]
+	path = semester_7/Курсовая-работа-КС
+	url = git@github.com:Mansurow/bmstu-iu7-network-cp.git
+	branch = master
+[submodule "semester_7/Курсовая-работа-ОС"]
+	path = semester_7/Курсовая-работа-ОС
+	url = git@github.com:Mansurow/bmstu-iu7-os-cp.git
+	branch = master
