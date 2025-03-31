@@ -19,3 +19,15 @@
 [submodule "semester_3/Типы-и-структуры-данных"]
 	path = semester_3/Типы-и-структуры-данных
 	url = git@github.com:Mansurow/bmstu-iu7-3sem-TaSD.git
+[submodule "semester_4/Объектно-ориентированное-программирование"]
+	path = semester_4/Объектно-ориентированное-программирование
+	url = git@github.com:Mansurow/bmstu-iu7-4sem-OOP.git
+[submodule "semester_4/Машинно-зависиммые-языки-программирования"]
+	path = semester_4/Машинно-зависиммые-языки-программирования
+	url = git@github.com:Mansurow/bmstu-iu7-4sem-ASM.git
+[submodule "semester_4/Вычислительные-алгоритмы"]
+	path = semester_4/Вычислительные-алгоритмы
+	url = git@github.com:Mansurow/bmstu-iu7-4sem-CA.git
+[submodule "semester_4/Компьютерная-графика"]
+	path = semester_4/Компьютерная-графика
+	url = https://github.com/Mansurow/bmstu-iu7-4sem-CG
